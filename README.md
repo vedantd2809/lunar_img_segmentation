@@ -1,1 +1,2 @@
-# lunar_img_segmentation
+# Lunar-image-segmentation
+https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset
